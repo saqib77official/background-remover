@@ -2,3 +2,4 @@ Flask==2.3.2
 rembg>=2.0.68
 Pillow>=10.0.0
 numpy>=1.26.0
+gunicorn>=21.2.0
